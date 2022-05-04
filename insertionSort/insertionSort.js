@@ -50,3 +50,6 @@ var insertionSort = function(array
   // Your code goes here. Feel free to add helper functions if needed.
   return array;
 };
+
+var result = insertionSort([{value: 2}, {value: 1}, {value: 3}]);
+console.log(result);
