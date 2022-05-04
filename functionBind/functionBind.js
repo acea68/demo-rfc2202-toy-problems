@@ -57,3 +57,5 @@ var bind = function(
   ) {
     // TODO: Your code here
   };
+  
+  console.log('result');
