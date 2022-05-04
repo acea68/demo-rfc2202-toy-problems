@@ -51,5 +51,5 @@ var insertionSort = function(array
   return array;
 };
 
-var result = insertionSort([{value: 2}, {value: 1}, {value: 3}]);
-console.log(result);
+var result2 = insertionSort([{value: 2}, {value: 1}, {value: 3}]);
+console.log('result2');
