@@ -15,3 +15,5 @@
  var toFraction = function(number) {
   // Your code here
 };
+
+console.log('result');
