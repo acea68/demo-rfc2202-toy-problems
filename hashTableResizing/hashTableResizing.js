@@ -43,3 +43,5 @@ var makeHashTable = function() {
 
   return result;
 };
+
+console.log('result');
